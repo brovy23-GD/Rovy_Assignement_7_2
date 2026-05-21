@@ -1,0 +1,14 @@
+C:\Visual Studio Assignments\Rovy Assignement 7.2\obj\Debug\net10.0\Rovy Assignement 7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Assignments\Rovy Assignement 7.2\obj\Debug\net10.0\Rovy Assignement 7.2.AssemblyInfoInputs.cache
+C:\Visual Studio Assignments\Rovy Assignement 7.2\obj\Debug\net10.0\Rovy Assignement 7.2.AssemblyInfo.cs
+C:\Visual Studio Assignments\Rovy Assignement 7.2\obj\Debug\net10.0\Rovy Assignement 7.2.csproj.CoreCompileInputs.cache
+C:\Visual Studio Assignments\Rovy Assignement 7.2\bin\Debug\net10.0\Rovy Assignement 7.2.exe
+C:\Visual Studio Assignments\Rovy Assignement 7.2\bin\Debug\net10.0\Rovy Assignement 7.2.deps.json
+C:\Visual Studio Assignments\Rovy Assignement 7.2\bin\Debug\net10.0\Rovy Assignement 7.2.runtimeconfig.json
+C:\Visual Studio Assignments\Rovy Assignement 7.2\bin\Debug\net10.0\Rovy Assignement 7.2.dll
+C:\Visual Studio Assignments\Rovy Assignement 7.2\bin\Debug\net10.0\Rovy Assignement 7.2.pdb
+C:\Visual Studio Assignments\Rovy Assignement 7.2\obj\Debug\net10.0\Rovy Assignement 7.2.dll
+C:\Visual Studio Assignments\Rovy Assignement 7.2\obj\Debug\net10.0\refint\Rovy Assignement 7.2.dll
+C:\Visual Studio Assignments\Rovy Assignement 7.2\obj\Debug\net10.0\Rovy Assignement 7.2.pdb
+C:\Visual Studio Assignments\Rovy Assignement 7.2\obj\Debug\net10.0\Rovy Assignement 7.2.genruntimeconfig.cache
+C:\Visual Studio Assignments\Rovy Assignement 7.2\obj\Debug\net10.0\ref\Rovy Assignement 7.2.dll
